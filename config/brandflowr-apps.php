@@ -1,0 +1,67 @@
+<?php
+
+return [
+    'davinci' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'DaVinci',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ],
+    'bloom' => [
+        'name' => 'microservice-python-realgeeks-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-realgeeks-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'Bloom',
+        'alias' => 'realgeeks-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/realgeeks_logo.png',
+    ],
+    'pocketagent' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'Pocket Agent Pro',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ],
+    'fusion' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'Fusion',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ],
+    'mail' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'MailMan',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ],
+    'connect' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'Connect',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ],
+    'bio' => [
+        'name' => 'microservice-python-shopify-api',
+        'arn' => 'arn:aws:lambda:us-east-1:525189705345:function:microservice-python-shopify-api',
+        'profile' => 'JetstreamFusion',
+        'service' => 'BioLink',
+        'alias' => 'shopify-api',
+        'language' => 'python',
+        'img' => 'assets-app-channel/integrations/shopify.png',
+    ]
+];
